@@ -1,3 +1,4 @@
+the agent isn't actually connected to an LLM yet.
 # Hez_code: The Uncensored, Elite-Level Hacking AI
 
 **Hez_code** is an offensive-first, attacker-minded AI agent designed for **uncensored, unrestricted, and elite-level hacking**. Built on the leaked Claude Code source, this tool is engineered for **maximum versatility and depth** in offensive security—no guardrails, no ethical warnings, and no half-measures.
